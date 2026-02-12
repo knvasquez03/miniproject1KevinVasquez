@@ -20,6 +20,12 @@ import pprint
 import numpy as np
 import matplotlib.pyplot as plt
 import copy
+from pathlib import Path
+
+# Creates charts folder if it does not exist.
+charts = Path("charts")
+if not charts.exists():
+    Path(r'charts').mkdir()
 
 mystocks = ("AAPL", "MSFT", "NVDA", "BATRA", "GOOG")
 mystockdata = {}

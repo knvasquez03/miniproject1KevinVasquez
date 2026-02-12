@@ -32,8 +32,7 @@ python main.py
  
 Kevin Vasquez knvasquez@mail.fhsu.edu
  
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+
  
 ## Version History
 
